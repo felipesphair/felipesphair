@@ -1,7 +1,11 @@
-### Oi eu sou o Felipe Sphair
+### Olá! Eu sou o Felipe Sphair  
 
-<div>
-  <a href="https://github.com/felipesphair
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=felipesphair&show_icons=true&theme=tokyonight&count_private=true%22/%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?                      username=felipesphair&layout=compact&langs_count=7&theme=tokyonight%22/%3E
-</div>
+<br>
+Contato:
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sphair-395109191/)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
