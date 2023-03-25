@@ -5,8 +5,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesphair&layout=compact&theme=dark)](https://github.com/felipesphair)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesphair&layout=compact&theme=dark)](https://github.com/felipesphair)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesphair&layout=compact&theme=dracuka)](https://github.com/felipesphair)
+
 <hr>
 
 <h3 style="display: inline; ">Contato: sphairfelipe@hotmail.com</h3>
