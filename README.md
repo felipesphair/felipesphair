@@ -5,7 +5,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesphair&layout=compact&theme=dar)](https://github.com/felipesphair)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesphair&layout=compact&theme=dark)](https://github.com/felipesphair)
 
 <hr>
 
